@@ -13,3 +13,11 @@ Crie uma classe denominada Elevador para armazenar as informações de um elevad
 
 Agora é hora mostrar o funcionamento desse elevador. 
 Utilizando o Senac Lapa Tito como exemplo, crie  três instâncias desse elevador. Eles devem ser nomeados como Elevadores da Entrada, Átrio e Biblioteca e devem atender e deixar de atender os mesmos andares (incluindo o subsolo e o quinto andar) como no mundo "real".
+
+## Linguagens Utilizadas
+para a criaçâo dos progrmas utilezei somente a linhuagem java
+
+## Como Utilizar?
+1.Faça O dowload da pasta zip em code
+
+2.Extraia  da pasta zip os arquivos no seu explorador de arquivos.
